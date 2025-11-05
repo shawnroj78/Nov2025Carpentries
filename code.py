@@ -8,3 +8,6 @@ import pandas as pd
 
 # Try same analysis as in R
 x + y
+
+# Talked to professor. Try new analysis
+x - y

@@ -5,3 +5,6 @@ y = x + 2
 
 import pandas as pd
 
+
+# Try same analysis as in R
+x + y

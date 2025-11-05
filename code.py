@@ -12,5 +12,5 @@ x + y
 # Talked to professor. Try new analysis
 x - y
 
-# New variable
-z = y - x
+# I do want a new variable
+z = x^2
